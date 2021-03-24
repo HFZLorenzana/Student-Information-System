@@ -22,9 +22,17 @@ Activity:
   c.	The ‘Edit’ button should be able to update records from the database. The program asks which of the fields can be updated except for the id number. 
   d.	The ‘Delete’ button should be able to delete a record from the database. The program should ask the id number of the record the user wants to delete. 
   e.	The ‘Display’ button should be able to display all records from 
-      the database. The program should create a new frame and display all records from the database. The program should also display and calculate the age of the student based on       the birth year. 
+      the database. The program should create a new frame and display all records from the database. The program should also display and calculate the age of the student based         on the birth year. 
       
       
----------------------------GUI----------------------------------------------
+      ABOUT THE FILES:
+      StudentInfoSys.java -> Controller
+      DisplayRecords.java -> Contains JTable to contain data, opens when DISPLAY button is clicked on the VIEW.
+      Student.java -> Model - POJO
+      
+---------------------------VIEW----------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/72563196/112358991-cab5c980-8d0b-11eb-905b-4b84c5528395.png)
+
+
+
