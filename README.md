@@ -23,5 +23,8 @@ Activity:
   d.	The ‘Delete’ button should be able to delete a record from the database. The program should ask the id number of the record the user wants to delete. 
   e.	The ‘Display’ button should be able to display all records from 
       the database. The program should create a new frame and display all records from the database. The program should also display and calculate the age of the student based on       the birth year. 
+      
+      
 ---------------------------GUI----------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/72563196/112358991-cab5c980-8d0b-11eb-905b-4b84c5528395.png)
