@@ -1,11 +1,12 @@
 # Student-Information-System
 Codelab  3 - Student Information System
 
+
+Activity:
 ------------------------THIS REPOSITORY IS PRIVATE & CAN'T BE DISTRIBUTED WITHOUT AUTHOR DISCRETION-------------------------
                                       Made by: Hans Lorenzana / @ZoreniX
                                       Activity from: University of Cordilleras
 ----------------------------------------------------------------------------------------------------------------------------
-Activity:
 
 1.	Model: 
   a.	Create a POJO for a student with the attributes: first name, middle name, last name, id number, birth year, course, and year. 
