@@ -26,9 +26,9 @@ Activity:
       
       
  ABOUT THE FILES:
-      StudentInfoSys.java -> Controller
-      DisplayRecords.java -> Contains JTable to contain data, opens when DISPLAY button is clicked on the VIEW.
-      Student.java -> Model - POJO
+ StudentInfoSys.java -> Controller
+ DisplayRecords.java -> Contains JTable to contain data, opens when DISPLAY button is clicked on the VIEW.
+ Student.java -> Model - POJO
       
 ---------------------------VIEW----------------------------------------------
 
