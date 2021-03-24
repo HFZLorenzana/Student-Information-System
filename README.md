@@ -1,10 +1,11 @@
 # Student-Information-System
 Codelab  3 - Student Information System
 
-------------------------THIS REPOSITORY IS PRIVATE & CAN'T BE DISTRIBUTED WITHOUT AUTHOR DISCRETION-------------------------
-                                      Made by: Hans Lorenzana / @ZoreniX
-                                      Activity from: University of Cordilleras
-----------------------------------------------------------------------------------------------------------------------------
+------------THIS REPOSITORY IS PRIVATE & CAN'T BE DISTRIBUTED WITHOUT AUTHOR DISCRETION-------
+                                      
+                                 Made by: Hans Lorenzana / @ZoreniX
+                               Activity from: University of Cordilleras
+-----------------------------------------------------------------------------------------------
 
 Activity:
 
