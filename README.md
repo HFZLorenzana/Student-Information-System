@@ -24,7 +24,7 @@ Activity:
   e.	The ‘Display’ button should be able to display all records from 
       the database. The program should create a new frame and display all records from the database. The program should also display and calculate the age of the student based         on the birth year. 
       
-      
+-----------------------------------------------------------------------------     
  ABOUT THE FILES:
  StudentInfoSys.java -> Controller
  DisplayRecords.java -> Contains JTable to contain data, opens when DISPLAY button is clicked on the VIEW.
